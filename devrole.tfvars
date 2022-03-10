@@ -1,0 +1,6 @@
+aws_region = "us-east-1"
+aws_profile = "devrole"
+role_arn = "arn:aws:iam::********:role/dev_account"
+acc_id = "**********"
+app_name = "csye6225-webapp"
+group_name = "csye6225-webapp-deployment"
